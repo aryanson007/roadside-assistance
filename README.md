@@ -93,20 +93,7 @@ npm run dev
 
 ---
 
-## 📸 Screenshots
 
-You can add screenshots of:
-
-- Home Page
-- Dashboard
-- Vehicle Management
-- Mechanics
-- Emergency Page
-- Booking History
-- Profile
-- Premium Membership
-
----
 
 ## 🌟 Future Improvements
 
